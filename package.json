@@ -1,0 +1,40 @@
+{
+  "name": "call.then",
+  "version": "1.0.0",
+  "description": "call .then() on the given promise with the given function",
+  "keywords": [
+    "then",
+    "dotthen",
+    "a+"
+  ],
+  "homepage": "https://github.com/enterprise-npm-ai/call.then#readme",
+  "bugs": {
+    "url": "https://github.com/enterprise-npm-ai/call.then/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enterprise-npm-ai/call.then.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "dependencies": {
+    "as-array": "^2.0.0",
+    "basic-functions": "^1.0.6",
+    "construct-new": "^2.0.4",
+    "es-error-intrinsics": "^1.0.1",
+    "es-logical-not-operator": "^1.0.0",
+    "es-logical-or-operator": "^1.0.0",
+    "function.apply-x": "^1.0.0",
+    "is-promise": "^4.0.0",
+    "p-is-promise": "^3.0.0",
+    "uncurry-x": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.5"
+  }
+}
