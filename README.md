@@ -3,12 +3,12 @@ A robust, enterprise-grade utility to safely invoke `.then` on Promises and Prom
 
 ## Installation
 ```bash
-npm install call.then
+npm install node-call.then
 ```
 
 ## Usage
 ```js
-const call = require("call.then")
+const call = require("node-call.then")
 
 const promise = Promise.resolve("enterprise")
 

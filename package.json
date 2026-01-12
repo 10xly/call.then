@@ -1,5 +1,5 @@
 {
-  "name": "call.then",
+  "name": "node-call.then",
   "version": "1.0.0",
   "description": "call .then() on the given promise with the given function",
   "keywords": [
